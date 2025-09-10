@@ -1,6 +1,6 @@
-at first class i was known with \n
-1.input/output n\
-2.variables \n
-3.datatyps \n
-4.operator \n
+at first class i was known with 
+1.input/output
+2.variables 
+3.datatyps 
+4.operator 
 5.unary operator
